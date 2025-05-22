@@ -47,15 +47,26 @@
 
 .header__content {
   /* Agrega las propiedades flex aquí */
+  display: flex;
 }
 
 .header__title {
+  font-size: 62px;
+  line-height: 76px;
+  font-weight: 500;
+  max-width: 635px;
+  margin: 128px 0 32px 0;
 }
 
 .header__description {
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 515px;
+  margin: 0;
 }
 
 .header__image {
+  max-width: 636px;
 }
 
 .header__footer {
