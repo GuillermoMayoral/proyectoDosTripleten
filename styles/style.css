@@ -92,6 +92,8 @@
 
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
+  background-color: #ffffff;
+  color: #000000;
   padding: 100px 0 140px;
   background-repeat: no-repeat;
   background-size: cover;
